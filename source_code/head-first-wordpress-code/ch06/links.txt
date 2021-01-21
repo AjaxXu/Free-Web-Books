@@ -1,1 +1,0 @@
-TSG Podcasting Plugin: http://wordpress.org/extend/plugins/podcasting/
